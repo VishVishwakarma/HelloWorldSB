@@ -24,7 +24,7 @@
    
   
 
-### From User perspective Spring Boot halleluyah
+# From User perspective Spring Boot halleluyah
 
 **A simple Spring Boot 3.3.x app to send halleluyah message to a user**
 
