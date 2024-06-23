@@ -2,14 +2,14 @@
 **A simple Spring Boot 3.3.x app to send hello world message to a user**
 
 ## How to Import 
-** Import project through STS**
+**Import project through STS application git repository**
 
 ## Convert to Maven
-** Right click on project select configure->convert to mavan**
+**Right click on project select configure->convert to mavan**
 
 ## How to Run Application
 
-** select on project run as Spring Boot App**
+**select on project run as Spring Boot App**
 
 **Send an HTTP GET request to '/' endpoint using any of the two methods**
 
