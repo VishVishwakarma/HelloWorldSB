@@ -1,13 +1,13 @@
 # From Development perspective Spring Boot halleluyah
 **A simple Spring Boot 3.3.x app to send hello world message to a user**
 
-# How to Import 
+## How to Import 
 ** Import project through STS**
 
-# Convert to Maven
+## Convert to Maven
 ** Right click on project select configure->convert to mavan**
 
-# How to Run Application
+## How to Run Application
 
 ** select on project run as Spring Boot App**
 
@@ -23,9 +23,8 @@
   <br/>
    
   
-#From User perspective Spring Boot halleluyah
 
-## Spring Boot halleluyah
+### From User perspective Spring Boot halleluyah
 
 **A simple Spring Boot 3.3.x app to send halleluyah message to a user**
 
